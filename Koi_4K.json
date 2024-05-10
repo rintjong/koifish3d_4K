@@ -1,0 +1,279 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917x",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Islamic Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/EsxGalCWZAKvCBaY1UOldvz1oWIasRdQs10aH9Zegj_qY2Hwr7_z1V3xSRQLIlhvAW8=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.islamicwallpaper4k"
+		}
+	],
+	
+  "Categories": [
+		{
+			"id": 1,
+			"name_category": "Koi Fish",
+			"image": "https://i.pinimg.com/564x/ca/e7/95/cae795a706b7fc714da4f4703699474a.jpg"
+		}
+	
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ca/e7/95/cae795a706b7fc714da4f4703699474a.jpg",
+	  "lock":false
+    },
+    {
+      "id": 2,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/3f/53/44/3f53442540623e380b8f15c17fa5b579.jpg",
+	  "lock":false
+    },
+    {
+      "id":3,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/5a/9d/f1/5a9df1d261390348172ed12213c18fd4.jpg",
+	  "lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a4/68/21/a46821ae233f6bd4e19b83e791508c5c.jpg",
+	  "lock":false
+    },
+    {
+      "id":5,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ab/fc/7f/abfc7f70fdc09061eedbf74b1f367f1b.jpg",
+	  "lock":false
+    },
+    {
+      "id":6,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/40/6b/0d/406b0dc98b906977679fc97cbc11f047.jpg",
+	  "lock":false
+    },
+
+	  
+   {
+      "id":7,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/f8/66/ad/f866ad27b922d4dad12e38045ab454bd.jpg",
+	  "lock":false
+    },
+    {
+      "id": 8,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/d9/11/af/d911aff4f78fe82fded0af5e49e3edfc.jpg",
+	  "lock":false
+    },
+    {
+      "id":9,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/c6/2d/f5/c62df594a323a1522d5580a4646bdd6d.jpg",
+	  "lock":false
+    },
+    {
+      "id":10,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/d0/27/e9/d027e9922e46b45c1f434ea832390214.jpg",
+	  "lock":false
+    },
+    {
+      "id":11,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a3/db/ef/a3dbef106c1df65ebe07bb25f6cf8c84.jpg",
+	  "lock":false
+    },
+    {
+      "id":12,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/e4/6d/08/e46d0835438730e665b271f914c3d5ce.jpg",
+	  "lock":false
+    },
+	  
+{
+      "id":13,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/0c/35/2b/0c352bf84237594b055145d5b0e370db.jpg",
+	  "lock":false
+    },
+    {
+      "id": 14,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/0c/d9/9c/0cd99cec72463ff4bfdfe10d29e54204.jpg",
+	  "lock":false
+    },
+    {
+      "id":15,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/68/77/97/6877973618a252ac2a8592effd183495.jpg",
+	  "lock":false
+    },
+    {
+      "id":16,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ac/be/fe/acbefe25da27de347d20b43ee51d5071.jpg",
+	  "lock":false
+    },
+    {
+      "id":17,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/df/0d/0e/df0d0ecceffba3d9f896eb62d39074fb.jpg",
+	  "lock":false
+    },
+    {
+      "id":18,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ec/b4/53/ecb453e43d617ba1be0ae9e4b12f5cf6.jpg",
+	  "lock":false
+    },
+	  
+    {
+      "id":19,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/41/56/7c/41567cf06eef79d8902cec7229bf933f.jpg",
+	  "lock":false
+    },
+    {
+      "id": 20,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/33/49/f2/3349f24d51b14f996288f1700b82ea95.jpg",
+	  "lock":false
+    },
+    {
+      "id":21,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a2/00/17/a20017a43f91ec60bd802a2cdbf9889a.jpg",
+	  "lock":false
+    },
+    {
+      "id":22,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/06/05/ed/0605ed3c368d0de7bbb84f338d11680c.jpg",
+	  "lock":false
+    },
+    {
+      "id":23,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/76/48/3d/76483d37d38437944a09b769d1cff2c6.jpg",
+	  "lock":false
+    },
+    {
+      "id":24,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/c4/a1/9a/c4a19a0737b1b176a50c20e1f4923aa0.jpg",
+	  "lock":false
+    },
+	  
+    {
+      "id":25,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/23/36/6c/23366c029cddef00245b38063d027ff2.jpg",
+	  "lock":false
+    },
+    {
+      "id": 26,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/28/f9/30/28f930240d74a043fbe61f80bdf2290b.jpg",
+	  "lock":false
+    },
+    {
+      "id":27,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/11/bd/63/11bd638d3cea82298f1ff63bc9ae4754.jpg",
+	  "lock":false
+    },
+    {
+      "id":28,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a0/cd/89/a0cd89a8efa38a5ca4816a3eb9fe8788.jpg",
+	  "lock":false
+    },
+    {
+      "id":29,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/46/d2/b2/46d2b259e1d926bdbe7e078affe4da1b.jpg",
+	  "lock":false
+    },
+    {
+      "id":30,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/3b/f8/9c/3bf89c1888cbf60ed1684fe16b6794a5.jpg",
+	  "lock":false
+    }
+  ]
+}
